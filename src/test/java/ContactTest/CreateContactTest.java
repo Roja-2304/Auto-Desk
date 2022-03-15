@@ -13,6 +13,7 @@ System.out.println("this is ContactTest");
 	public void createContactTset1()
 	{
 		System.out.println("This is contact tset2");
+		System.out.println("This is contact test 3");
 	}
 	
 	
